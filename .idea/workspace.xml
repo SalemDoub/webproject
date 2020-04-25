@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b4df431-56c9-4937-bc72-52b1351f149d" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mongo</find>
+      <find>Userdb</find>
+      <find>User</find>
+      <find>dotenv</find>
+      <find>axios</find>
+      <find>favicon</find>
+      <find>port</find>
+      <find>axios.</find>
+      <find>users</find>
+      <find>app</find>
+      <find>birds</find>
+      <find>salondb</find>
+      <find>index</find>
+      <find>index.html</find>
+      <find>http</find>
+      <find>router</find>
+      <find>true</find>
+      <find>3001</find>
+      <find>localhost</find>
+      <find>maxTim</find>
+      <find>maxTime</find>
+      <find>_salons</find>
+      <find>let _salons</find>
+      <find>_connected</find>
+      <find>open</find>
+      <find>user discon</find>
+      <find>console.log</find>
+      <find>password</find>
+      <find>PUSH</find>
+      <find>push</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>size</replace>
+      <replace>this.state.brushSize</replace>
+      <replace>props.brushColor</replace>
+      <replace>eraser</replace>
+      <replace>maxCount</replace>
+      <replace>maxTime</replace>
+      <replace>-1</replace>
+      <replace>timeleft</replace>
+      <replace>updateTime</replace>
+      <replace>initialize_timeleft</replace>
+      <replace>displayCtx</replace>
+      <replace>props.init_timeleft</replace>
+      <replace>init_timeleft</replace>
+      <replace>props.timeleft</replace>
+      <replace>props.setTimeleft</replace>
+      <replace>time_is_up</replace>
+      <replace>_is_up</replace>
+      <replace>setTime_is_up</replace>
+      <replace>mots</replace>
+      <replace>mot</replace>
+      <replace>props.maxTime</replace>
+      <replace>message</replace>
+      <replace>users</replace>
+      <replace>brush</replace>
+      <replace>game_ended</replace>
+      <replace>userGuessedCorrectly</replace>
+      <replace>router</replace>
+      <replace>salons</replace>
+      <replace>app</replace>
+      <replace>messageType</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Nouamane\WebstormProjects\Pictionary</dir>
+      <dir>C:\Users\Nouamane\WebstormProjects\Pictionary\server</dir>
+      <dir>C:\Users\Nouamane\WebstormProjects\Pictionary\client</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b2IXjrJnroiIQg0mBU6X8JpuYl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Nouamane\WebstormProjects\untitled1\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nouamane\WebstormProjects\Pictionary" />
+      <recent name="C:\Users\Nouamane\WebstormProjects\Pictionary\client" />
+      <recent name="C:\Users\Nouamane\WebstormProjects\Pictionary\server" />
+      <recent name="C:\Users\Nouamane\WebstormProjects\final version\aaa" />
+      <recent name="C:\Users\Nouamane\WebstormProjects\final version\client\src\pages\salon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nouamane\WebstormProjects\Pictionary\client\src\pages" />
+      <recent name="C:\Users\Nouamane\WebstormProjects\Pictionary\server" />
+      <recent name="C:\Users\Nouamane\WebstormProjects\Pictionary" />
+      <recent name="C:\Users\Nouamane\WebstormProjects\Pictionary\server\models" />
+      <recent name="C:\Users\Nouamane\WebstormProjects\untitled1\client\src\pages\member" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b4df431-56c9-4937-bc72-52b1351f149d" name="Default" comment="" />
+      <created>1568545150258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568545150258</updated>
+      <workItem from="1568545152392" duration="19202000" />
+      <workItem from="1568675401803" duration="27463000" />
+      <workItem from="1568899712244" duration="9940000" />
+      <workItem from="1568921339801" duration="1242000" />
+      <workItem from="1569057219047" duration="27449000" />
+      <workItem from="1569191309320" duration="23472000" />
+      <workItem from="1569259662943" duration="13015000" />
+      <workItem from="1569358843292" duration="7738000" />
+      <workItem from="1569398540210" duration="14175000" />
+      <workItem from="1569487834332" duration="18758000" />
+      <workItem from="1569565488162" duration="14629000" />
+      <workItem from="1569604908424" duration="21302000" />
+      <workItem from="1569703425658" duration="14033000" />
+      <workItem from="1569783785331" duration="14000" />
+      <workItem from="1569791403019" duration="3061000" />
+      <workItem from="1570008857528" duration="7704000" />
+      <workItem from="1570107296210" duration="4745000" />
+      <workItem from="1570131627266" duration="1197000" />
+      <workItem from="1570190155946" duration="5410000" />
+      <workItem from="1570276216487" duration="10271000" />
+      <workItem from="1570295990443" duration="1435000" />
+      <workItem from="1570394560177" duration="6739000" />
+      <workItem from="1570462715502" duration="85680000" />
+      <workItem from="1570662748699" duration="229000" />
+      <workItem from="1570700682353" duration="9919000" />
+      <workItem from="1570755418151" duration="1134000" />
+      <workItem from="1570783661213" duration="992000" />
+      <workItem from="1570801827801" duration="10522000" />
+      <workItem from="1570885223181" duration="31228000" />
+      <workItem from="1570956325522" duration="5864000" />
+      <workItem from="1587823805117" duration="2346000" />
+    </task>
+    <task id="LOCAL-00001" summary="Creation">
+      <created>1570711172707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570711172707</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test changed">
+      <created>1570753843163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570753843163</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test changed">
+      <created>1570754444160</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570754444160</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Renamed to Pictionary">
+      <created>1570755521469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570755521469</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Clean code">
+      <created>1570957855584</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570957855584</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creation" />
+    <MESSAGE value="test changed" />
+    <MESSAGE value="Renamed to Pictionary" />
+    <MESSAGE value="Clean code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1587826132954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1587826132954" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1587825896623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587825896623" />
+    <state x="540" y="257" width="285" height="287" key="Github.ShareDialog" timestamp="1587826123464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="540" y="257" width="285" height="287" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1587826123464" />
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1587823870754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587823870754" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1587823870754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587823870754" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1587823870753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587823870753" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1587823870754">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587823870754" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1587823817102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587823817102" />
+  </component>
+</project>
