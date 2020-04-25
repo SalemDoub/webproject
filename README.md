@@ -42,9 +42,12 @@ npm run dev
 App Usage
 Some already existing accounts:
 
-normal user >> username : user | password : user
+normal user >> username : user | password : user |||||
+
+
+
 admin >> username : admin | password : admin
 
-Author
-Salem Doub
+Author : 
+Salem Doub ||
 George Bardaghji
